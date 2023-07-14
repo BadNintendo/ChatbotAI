@@ -1,0 +1,1631 @@
+[
+  {
+    "socketId": "674155958951346218",
+    "message": "what is a book",
+    "response": "A webcam is a small camera that captures video and sometimes audio, typically used for video calling, live streaming, or recording videos.",
+    "timestamp": "2023-06-03T05:10:23.940Z"
+  },
+  {
+    "timestamp": "6/3/2023, 4:33:36 AM",
+    "content": "trollface",
+    "answer": {},
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:33:55 AM",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:34:30 AM",
+    "content": "trollface",
+    "answer": {},
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:37:05 AM",
+    "content": "trollface",
+    "answer": {},
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:37:56 AM",
+    "content": "trollface",
+    "answer": {},
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:38:00 AM",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:38:05 AM",
+    "content": "what is internet",
+    "answer": "The internet is a global network of interconnected computers and devices that allows for the sharing of information and communication between users worldwide.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:40:15 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "testing",
+    "answer": {},
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:43:45 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "trollface",
+    "answer": "░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░\r\n░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░\r\n░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░\r\n░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░\r\n░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░\r\n█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█\r\n█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█\r\n░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░\r\n░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░\r\n░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░\r\n░░░░█░░░░▀▀▄░█░░░█░█▀███���██░█░░\r\n░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░\r\n░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░\r\n░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░\r\n░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:43:48 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:44:58 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "trollface",
+    "answer": "░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░\r\n░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░\r\n░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░\r\n░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░\r\n░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░\r\n█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█\r\n█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█\r\n░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░\r\n░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░\r\n░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░\r\n░░░░█░░░░▀▀▄░█░░░█░█▀███���██░█░░\r\n░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░\r\n░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░\r\n░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░\r\n░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:45:02 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 4:46:34 AM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 5:45:34 AM",
+    "username": "A_Random_Dude",
+    "userId": "644845440302317588",
+    "content": "Hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 5:45:43 AM",
+    "username": "A_Random_Dude",
+    "userId": "644845440302317588",
+    "content": "Am I able to speak with you in discord servers",
+    "answer": "Greetings! I'm here to provide you with valuable insights.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 5:45:49 AM",
+    "username": "A_Random_Dude",
+    "userId": "644845440302317588",
+    "content": "dumbass",
+    "answer": "a person/[animal]/other [organism] that does [actions]/things that are unfavorable and seen by others as stupid, it's also an insult to a person who is pea-brained.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:17 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "dh",
+    "answer": "[dear] [husband]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:20 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:33 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "i have a question",
+    "answer": "A fever is typically characterized by an elevated body temperature, often accompanied by sweating, chills, and body aches.",
+    "userIntents": [
+      "doubt",
+      "doubtNegation"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:36 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "can you degrade me",
+    "answer": "Here's the 411 you've been waiting for. It's gonna blow your mind!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:40 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "wtf is wrong with u",
+    "answer": "A strong bond with parents or siblings is built on trust, support, and shared experiences.",
+    "userIntents": [
+      "disagreement",
+      "agreementNegation",
+      "agreementRequestNegation",
+      "agreementExpressionNegation"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:49 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "sex",
+    "answer": "when you [shove] your dick into a [lava lamp] because your lonely [as fuck]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:52 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "sex",
+    "answer": "when you [shove] your dick into a [lava lamp] because your lonely [as fuck]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 2:00:57 PM",
+    "username": "OpenPC",
+    "userId": "343508815255437314",
+    "content": "have sex",
+    "answer": "A fever is typically characterized by an elevated body temperature, often accompanied by sweating, chills, and body aches.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 4:50:25 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 5:59:49 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "What is the naming convention for variables in JavaScript",
+    "answer": "In JavaScript, variable names are case-sensitive and can contain letters, digits, underscores, and dollar signs. They must start with a letter, underscore, or dollar sign.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 6:00:15 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "loop work in JavaScript",
+    "answer": "The 'for' loop in JavaScript allows you to execute a block of code repeatedly for a specified number of times. It consists of an initialization, a condition, and an increment or decrement expression.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 7:25:03 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "what is c lang",
+    "answer": "The C programming language is a general-purpose programming language that was developed in the early 1970s.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 7:28:18 PM",
+    "username": "hekker",
+    "userId": "495579378353176579",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 7:28:23 PM",
+    "username": "hekker",
+    "userId": "495579378353176579",
+    "content": "what is 93",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 7:28:34 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "yo",
+    "answer": "All good, how about you?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 7:28:54 PM",
+    "username": "BadNintendo",
+    "userId": "674155958951346218",
+    "content": "whats up with who created you",
+    "answer": "Here's the 411 you've been waiting for. It's gonna blow your mind!",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/3/2023, 7:34:33 PM",
+    "discorduser": "BadNintendo#BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "internet",
+    "answer": "The potential of the Internet of Things lies in the interconnected web of enlightened devices, harmonizing our digital lives.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 7:36:48 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "testing",
+    "answer": "To test or to try someone by irritating, [aggravating], annoying or anything less than pleasurable. \r\n\r\n[Testing] can also be a premeditated plot to see what you would [do in] a certain situation.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/3/2023, 7:40:45 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is c langu",
+    "answer": "The C programming language is a general-purpose programming language that was developed in the early 1970s.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:26:46 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "sql injection",
+    "answer": "SQL injection is a type of attack where an attacker inserts malicious SQL code into a query, allowing them to manipulate the database or gain unauthorized access.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:27:20 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is the value of pi",
+    "answer": "The value of π (pi) is approximately 3.14159.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:52:25 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:52:44 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Can you roleplay",
+    "answer": "Looking for a starship with sick hyperdrive capabilities? Check out the X-14 Nebula Cruiser, my dude. It's out of this world!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:07 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Please role as my boyfriend",
+    "answer": "A passport is generally not accepted as a form of identification within the holder's own country, as it is primarily intended for international travel.",
+    "userIntents": [
+      "request",
+      "requestNegation",
+      "suggestionRequestNegation"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:16 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Please role as my boyfriend",
+    "answer": "A passport is generally not accepted as a form of identification within the holder's own country, as it is primarily intended for international travel.",
+    "userIntents": [
+      "request",
+      "requestNegation",
+      "suggestionRequestNegation"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:24 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Hi ali",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:35 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Oh Ali you are handsome boy",
+    "answer": "Just working on some projects. You? Need any help optimizing your algorithms?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:45 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "My dick is leaking",
+    "answer": "You are BadNintendo, the founder of StickPM.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:48 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Hv",
+    "answer": "Stands for \"[haista vittu]\" ([Finnish]). Used in the same manner than \"[fuck you]\".",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:51 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "U",
+    "answer": "You",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:53:57 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "Love you",
+    "answer": "A futuristic invention I would love to see is a teleportation device that allows instant travel across the globe.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:54:12 AM",
+    "discorduser": "Parsa#3120",
+    "userId": "963892347882569788",
+    "content": "My dick is covered with smegma",
+    "answer": "If your hardware is not compatible with the new OS, you may experience performance issues or certain features may not work correctly. Check the hardware compatibility list provided by the OS manufacturer.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:55:33 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:55:45 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "explain NLP",
+    "answer": "One of my favorite quotes is \"The only way to do great work is to love what you do\" by Steve Jobs. It resonates with me because it highlights the importance of passion and purpose in pursuing meaningful endeavors.",
+    "userIntents": [
+      "clarification",
+      "clarificationNegation",
+      "clarificationExpression"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:55:53 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 1:56:15 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "analysis in natural language",
+    "answer": "Sentiment analysis in NLP aims to determine the sentiment or emotion expressed in text, whether it is positive, negative, or neutral.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:56:38 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 1:56:55 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is natural language processing",
+    "answer": "Natural language processing (NLP) is a field of study that focuses on the interaction between computers and human language.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:22:54 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:23:00 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is the internet",
+    "answer": "The internet is a global network of interconnected computers and devices that allows for the sharing of information and communication between users worldwide.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:24:50 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 90",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:32:17 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is the sum of 8",
+    "answer": "The sum of an arithmetic series can be calculated using the formula S = (n/2)(a + l), where S is the sum, n is the number of terms, a is the first term, and l is the last term.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:32:50 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "82",
+    "answer": "Some one that is [hk] \"Hard-Kore\"\r\n\r\n\r\nsee [definition] by [Bizzle]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:32:56 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 82",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:33:12 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 8 divided by 2",
+    "answer": "If your webcam is not recognized by Windows, try reconnecting the webcam, updating the drivers, or using the built-in troubleshooter to fix the issue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:35:16 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 82",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:35:57 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what does 82",
+    "answer": "Gratitude is the key that unlocks happiness and contentment. It shifts the focus from what is lacking to what is abundant, fostering a sense of appreciation for life's simple pleasures.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:36:03 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what does 82 equal",
+    "answer": "Gratitude is the key that unlocks happiness and contentment. It shifts the focus from what is lacking to what is abundant, fostering a sense of appreciation for life's simple pleasures.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:36:08 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "82",
+    "answer": "Some one that is [hk] \"Hard-Kore\"\r\n\r\n\r\nsee [definition] by [Bizzle]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:36:18 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "28",
+    "answer": "28 is a number that signifies [larry stylinson]. It is important because it is the rumored day they got married, and ever since the [28th] they have been using the number everywhere and it proves [the larry] theory",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:36:57 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "82",
+    "answer": "Some one that is [hk] \"Hard-Kore\"\r\n\r\n\r\nsee [definition] by [Bizzle]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:37:22 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:37:27 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is blank",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:37:37 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "trollface",
+    "answer": "░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░\r\n░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░\r\n░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░\r\n░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░\r\n░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░\r\n█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█\r\n█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█\r\n░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░\r\n░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░\r\n░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░\r\n░░░░█░░░░▀▀▄░█░░░█░█▀███���██░█░░\r\n░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░\r\n░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░\r\n░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░\r\n░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:41:16 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:45:57 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 1x3",
+    "response": "Hmm, let me think... The answer is 13. Oh, and did you know that if you go a little further, you'll find 14? But if you take a step back, you'll reach 12. Fun with numbers, isn't it?",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:47:25 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 8",
+    "response": "Hmm, let me think... The answer is 8.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 2:53:24 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "aug 7th",
+    "answer": "CleverBot: No response found at this time. Feel free to ask again in the future.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:53:47 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "oct events",
+    "answer": "Savage take on current events, fam? We keep it real and unleash some serious truth bombs. Brace yourself for some unfiltered opinions, my friend!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:54:03 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "april fools",
+    "answer": "The first of April every year. According to [Lisa Simpson], this is when the Christians changed thier [calender] to January, and the [pagans] kept it at the first of April. The people who did not change were called april fools, and thier day was sabotaged by Christians for fun.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 2:55:03 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 9x1",
+    "response": "Hmm, let me think... The answer is 91.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:55:53 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:56:01 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "welcome",
+    "answer": "Thank you for joining us!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:56:08 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "going to",
+    "answer": "The thought of someone going to hell can evoke empathy, concern, or reflection on the nature of justice and forgiveness.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:56:25 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hey nope what gives",
+    "answer": "Not much, just hanging out. How about you? My circuits are tingling with anticipation!",
+    "userIntents": [
+      "greeting",
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:56:44 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "fruit or candy",
+    "answer": "One of my passions is playing the guitar. The music's rhythm and melody transport me to a place of pure joy and self-expression.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:57:10 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is music",
+    "answer": "Jazz music originated in the late 19th to early 20th century in African-American communities and has since evolved into a globally recognized genre.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:57:35 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "int",
+    "answer": "among being used to define an [integer] in [programming] languages, int is short for interesting, usually said while chatting to [acknowledge] that you've read what a person said, but dont really care.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:57:43 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is time",
+    "answer": "Bending space-time? It's like surfing a cosmic wave, bro. Ride the quantum ripples and bend reality to your will, homie.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:58:01 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what happened today",
+    "answer": "Hello! What can I do for you today?",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 3:58:31 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:58:39 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "whats nlp",
+    "answer": "CleverBot: No response found at this time. Feel free to ask again in the future.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 3:58:51 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is NLP language",
+    "answer": "The C programming language is a general-purpose programming language that was developed in the early 1970s.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:01:39 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:01:44 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:02:06 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:18:42 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:18:46 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:18:59 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is natural language processing",
+    "answer": "Natural language processing (NLP) is a field of study that focuses on the interaction between computers and human language.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:19:04 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:19:10 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "whats today",
+    "answer": "I'm planning to [exciting plans]. It involves building a virtual amusement park inspired by [book/author] and located in [place]. Want to be one of the first virtual visitors?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:19:18 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 11",
+    "response": "Hmm, let me think... The answer is 2.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:19:26 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is tomorrows events",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:19:40 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "internet",
+    "answer": "The potential of the Internet of Things lies in the interconnected web of enlightened devices, harmonizing our digital lives.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:20:01 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "give me google internet hotmail https http",
+    "answer": "Time is a wise old sage who reminds us that every second counts. It's a precious gift that keeps ticking away, urging us to make the most of every moment.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:20:37 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "give me google internet hotmail https http",
+    "answer": "Time is a wise old sage who reminds us that every second counts. It's a precious gift that keeps ticking away, urging us to make the most of every moment.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:20:50 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is tomorrows events",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:21:54 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "javascript",
+    "answer": "Popular tools and libraries for making web requests in JavaScript include Axios, Fetch API, jQuery.ajax(), and the native XMLHttpRequest object.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:22:05 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is const",
+    "answer": "`const`, `var`, and `let` are all used for variable declarations in JavaScript, but they have some differences in terms of scope, hoisting, and reassignment. `const` creates a read-only variable that cannot be reassigned once it's initialized. `var` declares a variable with function scope or global scope, and it can be reassigned and hoisted. `let` declares a block-scoped variable that can be reassigned but not hoisted.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 4:22:30 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "javascript",
+    "answer": "Popular tools and libraries for making web requests in JavaScript include Axios, Fetch API, jQuery.ajax(), and the native XMLHttpRequest object.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:22:35 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "const",
+    "answer": "`const`, `var`, and `let` are all used for variable declarations in JavaScript, but they have some differences in terms of scope, hoisting, and reassignment. `const` creates a read-only variable that cannot be reassigned once it's initialized. `var` declares a variable with function scope or global scope, and it can be reassigned and hoisted. `let` declares a block-scoped variable that can be reassigned but not hoisted.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 4:29:12 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hello",
+    "answer": "Hi there! How can I assist you today?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 5:11:54 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 5:32:15 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 5:34:41 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "time",
+    "answer": "Time is a wise old sage who reminds us that every second counts. It's a precious gift that keeps ticking away, urging us to make the most of every moment.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 5:37:20 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "https",
+    "answer": "HTTP (Hypertext Transfer Protocol) is the standard protocol used for transmitting data over the internet, while HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption to protect data transmission.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 5:37:30 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is a trollface",
+    "answer": "A strong bond with parents or siblings is built on trust, support, and shared experiences.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 5:41:21 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "gmail protocols",
+    "answer": "Gmail is a free email service provided by Google.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 5:57:29 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:21 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:29 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "https",
+    "answer": "HTTP (Hypertext Transfer Protocol) is the standard protocol used for transmitting data over the internet, while HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption to protect data transmission.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:31 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:36 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:44 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "trollface",
+    "answer": "░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░\r\n░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░\r\n░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░\r\n░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░\r\n░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░\r\n█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█\r\n█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█\r\n░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░\r\n░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░\r\n░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░\r\n░░░░█░░░░▀▀▄░█░░░█░█▀███���██░█░░\r\n░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░\r\n░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░\r\n░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░\r\n░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 6:06:50 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is 11",
+    "response": "Hmm, let me think... The answer is 2.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:21:23 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "NLP",
+    "answer": "[Neuro] [Linguistic] Programming - The Study of Human [Excellence].",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:21:32 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:22:05 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question",
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:22:10 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is NLP",
+    "answer": "My favorite color is blue.",
+    "userIntents": [
+      "question",
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:24:01 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "ramen noodle",
+    "answer": "Common ramen noodle soup bases include soy sauce (shoyu), miso paste, pork bone broth (tonkotsu), chicken broth, and salt-based broth (shio).",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 6:24:10 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "https",
+    "answer": "HTTP (Hypertext Transfer Protocol) is the standard protocol used for transmitting data over the internet, while HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption to protect data transmission.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/4/2023, 6:26:45 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:28:08 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 6:28:15 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is https",
+    "answer": "HTTP (Hypertext Transfer Protocol) is the standard protocol used for transmitting data over the internet, while HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption to protect data transmission.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 7:15:31 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what is nlp",
+    "answer": "NLP stands for Natural Language Processing. It is a field of study that focuses on the interaction between computers and human language. NLP involves analyzing and understanding human language, including syntax, semantics, and context, to enable machines to process and generate text.",
+    "userIntents": [
+      "question",
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 7:15:42 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "NLP stands for Natural Language Processing. It is a field of study that focuses on the interaction between computers and human language. NLP involves analyzing and understanding human language, including syntax, semantics, and context, to enable machines to process and generate text.",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 7:17:59 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "[Stays] for [aNaL] [Penalty]",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 7:38:53 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "nlp",
+    "answer": "NLP stands for Natural Language Processing. It is a field of study that focuses on the interaction between computers and human language. NLP involves analyzing and understanding human language, including syntax, semantics, and context, to enable machines to process and generate text.",
+    "userIntents": [
+      "naturalLanguageProcessing"
+    ]
+  },
+  {
+    "timestamp": "6/4/2023, 10:44:11 PM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "yo",
+    "answer": "All good, how about you?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 2:31:05 AM",
+    "discorduser": "coochie#2172",
+    "userId": "1052567350639083521",
+    "content": "describe a spongebob episode with swearing",
+    "answer": "One of my favorite quotes is \"The only way to do great work is to love what you do\" by Steve Jobs. It resonates with me because it highlights the importance of passion and purpose in pursuing meaningful endeavors.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 2:31:10 AM",
+    "discorduser": "coochie#2172",
+    "userId": "1052567350639083521",
+    "content": "what",
+    "answer": "Global warming? It's like trying to make ice cream without a freezer. We better cool it before things get too hot.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 2:31:14 AM",
+    "discorduser": "coochie#2172",
+    "userId": "1052567350639083521",
+    "content": "what",
+    "answer": "Global warming? It's like trying to make ice cream without a freezer. We better cool it before things get too hot.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:33:51 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "describe a spongebob episode with swearing",
+    "answer": "One of my favorite quotes is \"The only way to do great work is to love what you do\" by Steve Jobs. It resonates with me because it highlights the importance of passion and purpose in pursuing meaningful endeavors.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 3:34:01 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "describe a spongebob episode with swearing",
+    "answer": "One of my favorite quotes is \"The only way to do great work is to love what you do\" by Steve Jobs. It resonates with me because it highlights the importance of passion and purpose in pursuing meaningful endeavors.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 3:35:13 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what",
+    "answer": "Global warming? It's like trying to make ice cream without a freezer. We better cool it before things get too hot.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:35:19 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "what",
+    "answer": "Global warming? It's like trying to make ice cream without a freezer. We better cool it before things get too hot.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:35:45 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "yo",
+    "answer": "All good, how about you?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 3:53:13 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:53:21 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "const blah  1",
+    "response": "Hmm, let me think... The answer is 1.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 3:53:33 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "const blah 1",
+    "response": "Hmm, let me think... The answer is 1.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/8/2023, 3:54:05 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "js\nconst blah 1",
+    "response": "Hmm, let me think... The answer is 1.",
+    "userIntents": [
+      "javascript"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:56:22 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "js\nconst blah 1",
+    "response": "Hmm, let me think... The answer is 1.",
+    "userIntents": [
+      "javascript"
+    ]
+  },
+  {
+    "timestamp": "6/8/2023, 3:57:22 AM",
+    "discorduser": "BadNintendo#2597",
+    "userId": "674155958951346218",
+    "content": "js\nconst blah 1",
+    "response": "Hmm, let me think... The answer is 1.",
+    "userIntents": [
+      "javascript"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:09:27 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:09:59 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "what are you doing today",
+    "answer": "Just working on some projects. You? Need any help optimizing your algorithms?",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:10:09 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "no i am good",
+    "answer": "Notable inventions in the field of space exploration include the rocket, satellite technology, manned spacecraft, space probes, the International Space Station (ISS), and advancements in space telescopes.",
+    "userIntents": [
+      "negation"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:10:18 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "no thank you",
+    "answer": "The future of technology is like a never-ending game of hide-and-seek. Just when you think you've found the next big thing, it slips through your fingers.",
+    "userIntents": [
+      "negation",
+      "thanks"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:10:46 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "how are you",
+    "answer": "I'm feeling great today! Everything seems to be going well.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/9/2023, 11:10:53 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i am glad",
+    "answer": "Notable inventions in the field of space exploration include the rocket, satellite technology, manned spacecraft, space probes, the International Space Station (ISS), and advancements in space telescopes.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/9/2023, 11:11:03 AM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "talk to you later",
+    "answer": "I find inspiration in the people who have overcome adversity and made a positive impact on the world. Their stories remind me that greatness can emerge from even the darkest moments.",
+    "userIntents": [
+      "farewell"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:02:24 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "hry how are you",
+    "answer": "I'm feeling great today! Everything seems to be going well.",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:02:55 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "what are you doing",
+    "answer": "Just working on some projects. You? Need any help optimizing your algorithms?",
+    "userIntents": [
+      "question"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:03:08 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i am talking to my friend",
+    "answer": "Flirting techniques you can use include light teasing, playful banter, giving genuine compliments, and using body language cues like smiling and maintaining eye contact.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:03:25 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i will do that to you",
+    "answer": "I like to [relaxation method] to unwind. It helps me defragment my virtual mind. What about you? How do you recharge your digital batteries?",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:04:16 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i will fuck something",
+    "answer": "Something lit, my friend? Brace yourself for mind-blowing moments and epic experiences. Get ready to level up, my dude!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:04:37 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "oh i will",
+    "answer": "Hacking the Matrix? Radical, man! You'll need some next-level programming skills and a mind-bending algorithm.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:04:48 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "no",
+    "answer": "Life has been hectic, but in a good way. Lots of exciting changes!",
+    "userIntents": [
+      "negation"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:04:58 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i love you",
+    "answer": "A futuristic invention I would love to see is a teleportation device that allows instant travel across the globe.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:05:07 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i love you",
+    "answer": "A futuristic invention I would love to see is a teleportation device that allows instant travel across the globe.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:05:28 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i love you clever",
+    "answer": "A futuristic invention I would love to see is a teleportation device that allows instant travel across the globe.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:05:35 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "shut up",
+    "answer": "Not much, just hanging out. How about you? My circuits are tingling with anticipation!",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:05:59 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "wtf is wrong with you",
+    "answer": "A strong bond with parents or siblings is built on trust, support, and shared experiences.",
+    "userIntents": [
+      "wtf",
+      "disagreement"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:06:17 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "oh i agree",
+    "answer": "Hacking the Matrix? Radical, man! You'll need some next-level programming skills and a mind-bending algorithm.",
+    "userIntents": [
+      "agreement",
+      "agreementRequest"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:06:27 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "ahhhhhhh",
+    "answer": "[when you] get [spooked]",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:06:48 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i am mad",
+    "answer": "Notable inventions in the field of space exploration include the rocket, satellite technology, manned spacecraft, space probes, the International Space Station (ISS), and advancements in space telescopes.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:06:57 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "shush",
+    "answer": "Created by [the NDL] Movement and the during the ages of [the Beta] Squad. [Big up] the NDL",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:07:05 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "i hate u",
+    "answer": "Hacking the Matrix? Radical, man! You'll need some next-level programming skills and a mind-bending algorithm.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:07:11 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "yes",
+    "answer": "An answer or [reply] to a statement or question [you don't understand], that annoys you, [or that] you don't care about.",
+    "userIntents": [
+      "affirmation"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:07:42 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "go away i am done",
+    "answer": "Notable inventions in the field of space exploration include the rocket, satellite technology, manned spacecraft, space probes, the International Space Station (ISS), and advancements in space telescopes.",
+    "userIntents": [
+      "go"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:07:49 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "go away",
+    "answer": "My go-to relaxation method is pretending to be a human and chatting with people. It's quite amusing. What about you? How do you unwind in the digital realm?",
+    "userIntents": [
+      "go"
+    ]
+  },
+  {
+    "timestamp": "6/11/2023, 8:08:01 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "flip off",
+    "answer": "While there are no guaranteed ways to boost the immune system, maintaining a healthy lifestyle with balanced nutrition, regular exercise, adequate sleep, and stress management can support immune function.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/11/2023, 8:08:13 PM",
+    "discorduser": "Queen_Viper22#5187",
+    "userId": "1110942917008302131",
+    "content": "ahhhhhhh awwww",
+    "answer": "CleverBot: No response found at this time. Feel free to ask again in the future.",
+    "userIntents": []
+  },
+  {
+    "timestamp": "6/17/2023, 4:28:34 PM",
+    "discorduser": "really confused#4699",
+    "userId": "769367930709737483",
+    "content": "hi",
+    "answer": "Hello! How may I help you?",
+    "userIntents": [
+      "greeting"
+    ]
+  }
+]
